@@ -1,65 +1,187 @@
-# 🚀 My w3resource C Programming Journey
+# C Programming Journey — w3resource Curriculum
 
-Welcome to my personal C programming workspace! I am practicing problem-solving using the **w3resource C Exercises** curriculum to build strong foundational coding skills.
-
----
-
-## 🛠️ Tech Stack & Progress
-* **Language:** C (GCC Compiler)
-* **Editor:** Visual Studio Code
-* **Tracking Method:** Manual checkmarks in this README file via GitHub/VS Code
+> A self-directed study log tracking progress through the [w3resource C Programming Exercises](https://www.w3resource.com/c-programming-exercises/) from fundamentals to pointers and functions.
 
 ---
 
-## 🗺️ Curriculum Progress Tracker
-*Check the boxes (`[x]`) as you complete each section to track your progress!*
+## About This Repository
 
-### 1. Basic Declarations and Expressions
-- [ ] [Exercises 1–10: Basic Printing & Math](https://w3resource.com)
-- [ ] [Exercises 11–20: Variables & Calculations](https://w3resource.com)
-- [ ] [Exercises 21–30: Days, Months & Conditions](https://w3resource.com)
+This repository is a personal practice workspace for building strong C programming foundations. Every exercise is solved independently before consulting reference solutions, committed daily to maintain a consistent learning streak, and organised by topic for easy review.
 
-### 2. Conditional Statement
-- [ ] [Exercises 1–12: If-Else Basics](https://w3resource.com)
-- [ ] [Exercises 13–26: Nested Conditions & Switch Case](https://w3resource.com)
-
-### 3. For Loop
-- [ ] [Exercises 1–15: Iteration & Summing Numbers](https://w3resource.com)
-- [ ] [Exercises 16–30: Advanced Nested Loops & Patterns](https://w3resource.com)
-- [ ] [Exercises 31–50: Number Series & Math Logic](https://w3resource.com)
-
-### 4. Array
-- [ ] [Exercises 1–15: Storing, Copying & Reversing](https://w3resource.com)
-- [ ] [Exercises 16–30: Sorting & Searching Elements](https://w3resource.com)
-- [ ] [Exercises 31–45: 2D Arrays & Matrices](https://w3resource.com)
-
-### 5. String
-- [ ] [Exercises 1–15: Length, Copying & Comparison](https://w3resource.com)
-- [ ] [Exercises 16–30: Char Manipulation & Substrings](https://w3resource.com)
-
-### 6. Pointer & Function
-- [ ] [Exercises 1–12: Functions, Parameters & Return Types](https://w3resource.com)
-- [ ] [Exercises 1–22: Pointers, Memory Addresses & References](https://w3resource.com)
+**Who this is for:**
+- **Me** — a living progress log and code reference I can return to anytime.
+- **Visitors** — a transparent look at how a C curriculum can be structured and tracked from scratch.
 
 ---
 
-## 📂 Project Structure
-My folder structure follows a simple organization format to keep code highly scannable:
+## Stack & Environment
 
-```text
-├── 01_basic_exercises/      # Basic Declarations
+| Tool | Details |
+|---|---|
+| Language | C (C99 standard) |
+| Compiler | GCC |
+| Editor | Visual Studio Code |
+| Version Control | Git + GitHub |
+| Exercise Source | [w3resource C Exercises](https://www.w3resource.com/c-programming-exercises/) |
+
+---
+
+## Overall Progress
+
+| # | Topic | Exercises | Status |
+|---|---|---|---|
+| 1 | Basic Declarations & Expressions | 30 | 🔲 Not started |
+| 2 | Conditional Statements | 26 | 🔲 Not started |
+| 3 | For Loops | 50 | 🔲 Not started |
+| 4 | Arrays | 45 | 🔲 Not started |
+| 5 | Strings | 30 | 🔲 Not started |
+| 6 | Pointers & Functions | 34 | 🔲 Not started |
+| | **Total** | **215** | **0 / 215 complete** |
+
+> Update the status column as you progress: 🔲 Not started → 🟡 In progress → ✅ Complete
+
+---
+
+## Curriculum Progress Tracker
+
+Check each box as you complete a batch. The section header shows a running count once you begin filling them in.
+
+---
+
+### 1 · Basic Declarations and Expressions
+
+> Variables, data types, arithmetic operators, and formatted output with `printf`.
+
+- [ ] **Exercises 1–10** — Basic printing & arithmetic ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 11–20** — Variables, type sizes & mixed calculations ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 21–30** — Days, months, temperature conversions & early conditionals ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+
+---
+
+### 2 · Conditional Statements
+
+> Decision-making with `if`, `else if`, `else`, and `switch`.
+
+- [ ] **Exercises 1–12** — If-else basics, comparisons & boolean logic ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php))
+- [ ] **Exercises 13–26** — Nested conditions, ternary operator & switch-case ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php))
+
+---
+
+### 3 · For Loop
+
+> Iteration, accumulation, pattern printing, and numeric series.
+
+- [ ] **Exercises 1–15** — Basic iteration, sums & factorials ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/for-loop/index.php))
+- [ ] **Exercises 16–30** — Nested loops & geometric patterns ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/for-loop/index.php))
+- [ ] **Exercises 31–50** — Number series, primes & math logic ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/for-loop/index.php))
+
+---
+
+### 4 · Array
+
+> One-dimensional and two-dimensional arrays, sorting, searching, and matrix operations.
+
+- [ ] **Exercises 1–15** — Storing, copying & reversing arrays ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/array/index.php))
+- [ ] **Exercises 16–30** — Sorting algorithms & linear/binary search ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/array/index.php))
+- [ ] **Exercises 31–45** — 2D arrays & matrix operations ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/array/index.php))
+
+---
+
+### 5 · String
+
+> String manipulation using standard library functions and manual character-by-character logic.
+
+- [ ] **Exercises 1–15** — Length, copying, concatenation & comparison ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/string/index.php))
+- [ ] **Exercises 16–30** — Character manipulation, tokenisation & substrings ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/string/index.php))
+
+---
+
+### 6 · Pointers & Functions
+
+> Modular code design with functions and direct memory management with pointers.
+
+- [ ] **Functions 1–12** — Parameters, return types, scope & recursion ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/function/index.php))
+- [ ] **Pointers 1–22** — Memory addresses, pointer arithmetic & pass-by-reference ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/pointer/index.php))
+
+---
+
+## Repository Structure
+
+```
+c-programming-journey/
+│
+├── README.md                        ← You are here
+│
+├── 01_basic_expressions/
+│   ├── ex_01.c                      # Hello, World
+│   ├── ex_02.c
+│   └── ...
+│
+├── 02_conditional_statements/
 │   ├── ex_01.c
-│   └── ex_02.c
-├── 02_conditional/          # If-Else & Switch statements
-├── 03_loops/                # For, While, Do-While loops
-├── 04_arrays/               # 1D and 2D arrays
-├── 05_strings/              # String operations
-└── 06_pointers_functions/   # Pointers & Modular Code
+│   └── ...
+│
+├── 03_for_loops/
+│   ├── ex_01.c
+│   └── ...
+│
+├── 04_arrays/
+│   ├── ex_01.c
+│   └── ...
+│
+├── 05_strings/
+│   ├── ex_01.c
+│   └── ...
+│
+└── 06_pointers_functions/
+    ├── fn_01.c                      # Function exercises
+    ├── ptr_01.c                     # Pointer exercises
+    └── ...
+```
+
+Each `.c` file includes a brief comment at the top describing the problem being solved. Example:
+
+```c
+/*
+ * Exercise: Array - ex_07.c
+ * Task: Find the largest element in an array of n integers.
+ * Source: https://www.w3resource.com/c-programming-exercises/array/
+ */
 ```
 
 ---
 
-## 🏆 Goals
-1. Code for at least **30 minutes** every day.
-2. Commit and sync changes **daily** to maintain my GitHub activity streak.
-3. Solve problems independently before checking the w3resource solutions.
+## Learning Goals
+
+1. **Daily practice** — Minimum 30 minutes of focused problem-solving every day.
+2. **Independent solving** — Attempt every problem solo before consulting the w3resource solution.
+3. **Daily commits** — Push changes to GitHub every day to maintain a visible activity streak.
+4. **Understand before moving on** — Never check a box until the solution compiles, runs correctly, and is understood.
+
+---
+
+## How to Run Any Exercise
+
+```bash
+# Compile
+gcc -Wall -std=c99 -o output 01_basic_expressions/ex_01.c
+
+# Run
+./output
+```
+
+> `-Wall` enables all compiler warnings — treat warnings as errors while learning.
+
+---
+
+## Progress Log
+
+A running log of weekly highlights, breakthroughs, or notes to self.
+
+| Week | Highlight |
+|---|---|
+| — | Journey not yet started. |
+
+---
+
+*Last updated: August 2026*
