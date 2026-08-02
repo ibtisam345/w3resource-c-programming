@@ -30,13 +30,13 @@ This repository is a personal practice workspace for building strong C programmi
 
 | # | Topic | Exercises | Status |
 |---|---|---|---|
-| 1 | Basic Declarations & Expressions | 30 | 🔲 Not started |
+| 1 | Basic Declarations & Expressions | 125 | 🟡 In progress |
 | 2 | Conditional Statements | 26 | 🔲 Not started |
 | 3 | For Loops | 50 | 🔲 Not started |
 | 4 | Arrays | 45 | 🔲 Not started |
 | 5 | Strings | 30 | 🔲 Not started |
 | 6 | Pointers & Functions | 34 | 🔲 Not started |
-| | **Total** | **215** | **0 / 215 complete** |
+| | **Total** | **750** | **6 / 750 complete** |
 
 > Update the status column as you progress: 🔲 Not started → 🟡 In progress → ✅ Complete
 
