@@ -27,7 +27,7 @@ int main() {
     // changed the variable type of "c" from character to floating-point 
     printf("x + c = %f\n", x + c);
 
-    // changed the type of "x" from floatig-point to double precision
+    // changed the type of "x" from floating-point to double precision
     printf("dx + x = %lf\n", dx + x);
 
     // converted "dx" to an integer and added it to "ax"
@@ -51,19 +51,4 @@ int main() {
     printf("ax + ux = %lu\n",  ax + ux); 
 
     return 0;
-
-/*
-    Output: 
-    
-    a + c = 212
-    x + c = 89.134590
-    dx + x = 3.276183
-    ((int)dx) + ax = 1234567891
-    a + x = 127.134590
-    s + b = 16388
-    ax + b = 1234580235
-    s + c = 4130
-    ax + c = 1234567977
-    ax + ux = 3776135780
-*/
 }
