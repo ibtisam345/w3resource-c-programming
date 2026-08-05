@@ -36,7 +36,7 @@ This repository is a personal practice workspace for building strong C programmi
 | 4 | Arrays | 45 | 🔲 Not started |
 | 5 | Strings | 30 | 🔲 Not started |
 | 6 | Pointers & Functions | 34 | 🔲 Not started |
-| | **Total** | **750** | **6 / 750 complete** |
+| | **Total** | **750** | **10 / 750 complete** |
 
 > Update the status column as you progress: 🔲 Not started → 🟡 In progress → ✅ Complete
 
@@ -110,7 +110,7 @@ Check each box as you complete a batch. The section header shows a running count
 ```
 c-programming-journey/
 │
-├── README.md                        ← You are here
+├── README.md                        
 │
 ├── 01_basic_expressions/
 │   ├── ex_01.c                      # Hello, World
