@@ -14,6 +14,12 @@ This repository is a personal practice workspace for building strong C programmi
 
 ---
 
+## Commitment
+
+I am committed to completing every exercise in the w3resource C Programming curriculum—or, at the very least, the vast majority of them. My objective is to develop a deep understanding of C through consistent practice rather than rushing toward completion. This repository serves as a record of that commitment, documenting both my progress and my determination to finish what I started.
+
+---
+
 ## Stack & Environment
 
 | Tool | Details |
