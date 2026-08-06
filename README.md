@@ -42,7 +42,7 @@ I am committed to completing every exercise in the w3resource C Programming curr
 | 4 | Arrays | 45 | 🔲 Not started |
 | 5 | Strings | 30 | 🔲 Not started |
 | 6 | Pointers & Functions | 34 | 🔲 Not started |
-| | **Total** | **750** | **10 / 750 complete** |
+| | **Total** | **750** | **14 / 750 complete** |
 
 > Update the status column as you progress: 🔲 Not started → 🟡 In progress → ✅ Complete
 
