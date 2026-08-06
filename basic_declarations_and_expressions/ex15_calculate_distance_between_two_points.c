@@ -35,7 +35,7 @@ int main() {
     distance = sqrt(pow((x1 - x2), 2) + pow((y1 - y2), 2));
 
     // Show the result
-    printf("Distance between the said points: %.4lf", distance);
+    printf("Distance between the said points: %.4lf\n", distance);
 
     // Terminate the program successfully
     return 0;
