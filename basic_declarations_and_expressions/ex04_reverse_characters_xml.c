@@ -1,13 +1,14 @@
+/*
+*   4. Reverse characters ('X', 'M', 'L')
+*
+*   Write a C program to print the following characters in reverse.
+*
+*   @author: Muhammad Ibtisam Adnan
+*   
+*/
+
 #include <stdio.h>
 
-/*
-    4. Reverse characters ('X', 'M', 'L')
-
-    Write a C program to print the following characters in reverse.
-    Test Characters: 'X', 'M', 'L'
-    Expected Output:
-    The reverse of XML is LMX
-*/
 int main() {
 
     // Declare and initialize the character variables
