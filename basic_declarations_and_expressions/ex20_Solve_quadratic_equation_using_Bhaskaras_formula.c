@@ -3,6 +3,8 @@
 *
 *   Write a C program to print the roots of Bhaskara’s formula from the given three floating numbers.
 *   Display a message if it is not possible to find the roots.
+*   @author: Muhammad Ibtisam Adnan
+*   @date  : 08 August, 2026
 */
 
 #include <stdio.h>
@@ -42,7 +44,7 @@ int main() {
         
         // Calculate the roots
         else {
-            root1 = (-b + sqrt(D)) / (2 * a); 
+            root1 = (-b + sqrt(D)) / (2 * a); // Careful of presedence...
             root2 = (-b - sqrt(D)) / (2 * a);
 
             // Show the results
