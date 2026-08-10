@@ -33,16 +33,41 @@ I am committed to completing every exercise in the w3resource C Programming curr
 ---
 
 ## Overall Progress
-
 | # | Topic | Exercises | Status |
 |---|---|---|---|
-| 1 | Basic Declarations & Expressions | 125 | 🟡 In progress |
-| 2 | Conditional Statements | 26 | 🔲 Not started |
-| 3 | For Loops | 50 | 🔲 Not started |
-| 4 | Arrays | 45 | 🔲 Not started |
-| 5 | Strings | 30 | 🔲 Not started |
-| 6 | Pointers & Functions | 34 | 🔲 Not started |
-| | **Total** | **750** | **14 / 750 complete** |
+| 1 | Basic Declarations & Expressions | 150 | 🟡 In progress |
+| 2 | Basic Part-II | 7 | 🔲 Not started |
+| 3 | Basic Algorithm | 75 | 🔲 Not started |
+| 4 | Variable Type | 18 | 🔲 Not started |
+| 5 | Input - Output | 10 | 🔲 Not started |
+| 6 | Conditional Statement | 26 | 🔲 Not started |
+| 7 | While Loop | 11 | 🔲 Not started |
+| 8 | Do-While Loop | 12 | 🔲 Not started |
+| 9 | For Loop | 61 | 🔲 Not started |
+| 10 | Array | 107 | 🔲 Not started |
+| 11 | Structure | 9 | 🔲 Not started |
+| 12 | Pointer | 22 | 🔲 Not started |
+| 13 | Linked List | 64 | 🔲 Not started |
+| 14 | Stack | 17 | 🔲 Not started |
+| 15 | Binary Heap | 9 | 🔲 Not started |
+| 16 | Queue | 13 | 🔲 Not started |
+| 17 | Hash | 10 | 🔲 Not started |
+| 18 | Tree | 10 | 🔲 Not started |
+| 19 | Graph | 10 | 🔲 Not started |
+| 20 | Numbers | 38 | 🔲 Not started |
+| 21 | String | 41 | 🔲 Not started |
+| 22 | Date Time | 10 | 🔲 Not started |
+| 23 | Math | 38 | 🔲 Not started |
+| 24 | Function | 12 | 🔲 Not started |
+| 25 | Callback Function | 11 | 🔲 Not started |
+| 26 | Variadic Function | 8 | 🔲 Not started |
+| 27 | Recursion | 21 | 🔲 Not started |
+| 28 | Inline Function | 11 | 🔲 Not started |
+| 29 | File Handling | 19 | 🔲 Not started |
+| 30 | Searching and Sorting | 31 | 🔲 Not started |
+| 31 | Challenges | 35 | 🔲 Not started |
+| 32 | C Snippets | 4 | 🔲 Not started |
+| | **Total** | **920** | **24 / 920 complete** |
 
 > Update the status column as you progress: 🔲 Not started → 🟡 In progress → ✅ Complete
 
