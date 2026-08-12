@@ -83,8 +83,8 @@ Check each box as you complete a batch. The section header shows a running count
 
 > Variables, data types, arithmetic operators, and formatted output with `printf`.
 
-- [ ] **Exercises 1–10** — Basic printing & arithmetic ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
-- [ ] **Exercises 11–20** — Variables, type sizes & mixed calculations ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [✅] **Exercises 1–10** — Basic printing & arithmetic ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [✅] **Exercises 11–20** — Variables, type sizes & mixed calculations ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
 - [ ] **Exercises 21–30** — Days, months, temperature conversions & early conditionals ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
 
 ---
