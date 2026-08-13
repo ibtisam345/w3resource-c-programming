@@ -3,8 +3,8 @@
 *   Write a C program to calculate a bike’s average consumption from the given total distance (integer value)
 *   travelled (in km) and spent fuel (in liters, float number – 2 decimal points).
 *
-*   @author: Muhammad Ibtisam Adnan
-*   @date  : 06 August, 2026
+*   @author    : Muhammad Ibtisam Adnan
+*   @date      : 06 August, 2026
 *   @updateDate: 13 August, 2026
 */
 
@@ -25,15 +25,18 @@ int main() {
 
     // Calculate average consumption 
     // Average consumption = distance(km) / fuel consumed
-    if(fuel_spent == 0 || fuel_spent < 0) {
+    if(fuel_spent == 0) {
         printf("No fuel used yet!\n");
     }
+    else if(fuel_spent < 0) {
+        printf("Invalid input!\n");
+    }
 
-    else if(fuel_spent != 0) {
+    else {
         average_consumption = distance / fuel_spent;
 
         // Show the result (3 decimal points)
-        printf("Average consumption (km/lt): %.3f", average_consumption);
+        printf("Average consumption (km/lt): %.3f\n", average_consumption);
     }
     
     // Terminate the program successfully
