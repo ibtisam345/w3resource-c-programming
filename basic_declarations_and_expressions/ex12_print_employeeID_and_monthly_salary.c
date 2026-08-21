@@ -18,7 +18,7 @@ int main() {
 
     // Prompt user for employee ID
     printf("Input the Employee ID(Max. 10 chars): ");
-    scanf("%s", &employee_id);
+    scanf("%10s%*[^\n]", employee_id);
 
     // Read working hours from user
     printf("Input the working hours: ");
