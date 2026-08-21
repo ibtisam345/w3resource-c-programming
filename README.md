@@ -83,9 +83,12 @@ Check each box as you complete a batch. The section header shows a running count
 
 > Variables, data types, arithmetic operators, and formatted output with `printf`.
 
-- [✅] **Exercises 1–10** — Basic printing & arithmetic ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
-- [✅] **Exercises 11–20** — Variables, type sizes & mixed calculations ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
-- [ ] **Exercises 21–30** — Days, months, temperature conversions & early conditionals ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [✅] **Exercises 1–25** — Basic printing, arithmetic, type sizes & early conditionals (`basic_declarations_and_expressions/ex001-025/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 26–50** — Number ranges, counting, averages & additional beginner conditionals (`basic_declarations_and_expressions/ex026-050/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 51–75** — Continued basic declarations and expressions practice (`basic_declarations_and_expressions/ex051-075/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 76–100** — Continued basic declarations and expressions practice (`basic_declarations_and_expressions/ex076-100/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 101–125** — Continued basic declarations and expressions practice (`basic_declarations_and_expressions/ex101-125/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [ ] **Exercises 126–150** — Final basic declarations and expressions exercises (`basic_declarations_and_expressions/ex126-150/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
 
 ---
 
@@ -141,33 +144,20 @@ Check each box as you complete a batch. The section header shows a running count
 ```
 c-programming-journey/
 │
-├── README.md                        
+├── README.md
 │
-├── 01_basic_expressions/
-│   ├── ex_01.c                      # Hello, World
-│   ├── ex_02.c
-│   └── ...
-│
-├── 02_conditional_statements/
-│   ├── ex_01.c
-│   └── ...
-│
-├── 03_for_loops/
-│   ├── ex_01.c
-│   └── ...
-│
-├── 04_arrays/
-│   ├── ex_01.c
-│   └── ...
-│
-├── 05_strings/
-│   ├── ex_01.c
-│   └── ...
-│
-└── 06_pointers_functions/
-    ├── fn_01.c                      # Function exercises
-    ├── ptr_01.c                     # Pointer exercises
-    └── ...
+└── basic_declarations_and_expressions/
+    ├── ex001-025/
+    │   ├── ex01_print_name_dob_mobile.c
+    │   ├── ex02_get_c_version.c
+    │   └── ...
+    ├── ex026-050/
+    │   ├── ex26_print_all_even_numbers_between.c
+    │   └── ...
+    ├── ex051-075/
+    ├── ex076-100/
+    ├── ex101-125/
+    └── ex126-150/
 ```
 
 Each `.c` file includes a brief comment at the top describing the problem being solved. Example:
@@ -195,7 +185,7 @@ Each `.c` file includes a brief comment at the top describing the problem being 
 
 ```bash
 # Compile
-gcc -Wall -std=c99 -o output 01_basic_expressions/ex_01.c
+gcc -Wall -std=c99 -o output basic_declarations_and_expressions/ex001-025/ex01_print_name_dob_mobile.c
 
 # Run
 ./output
