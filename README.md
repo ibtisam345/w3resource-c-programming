@@ -67,7 +67,7 @@ I am committed to completing every exercise in the w3resource C Programming curr
 | 30 | Searching and Sorting | 31 | 🔲 Not started |
 | 31 | Challenges | 35 | 🔲 Not started |
 | 32 | C Snippets | 4 | 🔲 Not started |
-| | **Total** | **920** | **24 / 920 complete** |
+| | **Total** | **920** | **31 / 920 complete** |
 
 > Update the status column as you progress: 🔲 Not started → 🟡 In progress → ✅ Complete
 
