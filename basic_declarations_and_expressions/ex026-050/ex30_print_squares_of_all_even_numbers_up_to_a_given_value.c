@@ -1,14 +1,14 @@
 /*
-* ===========================================================
-* 30. Print squares of all even numbers up to a given value 
-* -----------------------------------------------------------
-* Write a C program to find and print the square of all the 
-* even values from 1 to a specified value.
-* -----------------------------------------------------------
-* Author: Muhammad Ibtisam Adnan
-* Date  : 24 August, 2026
-* ===========================================================
-*/
+ * ===========================================================
+ * 30. Print squares of all even numbers up to a given value 
+ * -----------------------------------------------------------
+ * Write a C program to find and print the square of all the 
+ * even values from 1 to a specified value.
+ * -----------------------------------------------------------
+ * Author: Muhammad Ibtisam Adnan
+ * Date  : 24 August, 2026
+ * ===========================================================
+ */
 
 #include <stdio.h>
 
