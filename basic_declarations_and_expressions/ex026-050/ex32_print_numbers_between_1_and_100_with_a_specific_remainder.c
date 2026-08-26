@@ -22,13 +22,18 @@ int main(void) {
     printf("Input an integer: ");
     scanf("%d", &n);
 
+    // Check for division by zero
+    if(n == 0) {
+        printf("Division by zero is undefined.\n");
+    }
     // Check for the numbers with a loop
-    for(i = 1; i <= 100; i++) {
-        if(i % n == 3) {
-            printf("%d\n", i);  // Show the result
+    else {
+        for(i = 1; i <= 100; i++) {
+            if(i % n == 3) {
+                printf("%d\n", i);  // Show the result
+            }
         }
     }
-
     // Terminate the program successfully
     return 0;
 }
