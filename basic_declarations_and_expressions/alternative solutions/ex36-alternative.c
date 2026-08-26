@@ -25,7 +25,7 @@ int main(void) {
     // If password is incorrect, let the user try again
     do {
         printf("Input the password: ");
-        scanf("%d", password);
+        scanf("%d", &password);
 
         if(password == correct_password) {
             printf("Correct password!\n");
