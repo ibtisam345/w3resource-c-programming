@@ -4,14 +4,15 @@
  * ----------------------------------------------------------
  * Write a C program to read a password until it is valid. 
  * For wrong password print "Incorrect password" and for
- *  correct password print, "Correct password" and quit the
- *  program. The correct password is 1234.
+ * correct password print, "Correct password" and quit the
+ * program. The correct password is 1234.
  * ----------------------------------------------------------
  * Author: Muhammmad Ibtisam Adnan
  * Date  : 26 August, 2026
  * ==========================================================
  */
 
+ // I added an alternative solution for this exercise.
 #include <stdio.h>
 
 int main(void) {
