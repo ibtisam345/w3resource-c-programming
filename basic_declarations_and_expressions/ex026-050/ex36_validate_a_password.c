@@ -7,7 +7,7 @@
  * correct password print, "Correct password" and quit the
  * program. The correct password is 1234.
  * ----------------------------------------------------------
- * Author: Muhammmad Ibtisam Adnan
+ * Author: Muhammad Ibtisam Adnan
  * Date  : 26 August, 2026
  * ==========================================================
  */

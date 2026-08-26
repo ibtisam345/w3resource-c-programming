@@ -6,7 +6,7 @@
  * positive even, negative even, positive odd or negative
  * odd. Print even if the number is 0.
  * ----------------------------------------------------------
- * Author: Muhammmad Ibtisam Adnan
+ * Author: Muhammad Ibtisam Adnan
  * Date  : 24 August, 2026
  * ==========================================================
  */

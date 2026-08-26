@@ -6,7 +6,7 @@
  * which are divided by a specified number and the remainder
  * will be 3.
  * ----------------------------------------------------------
- * Author: Muhammmad Ibtisam Adnan
+ * Author: Muhammad Ibtisam Adnan
  * Date  : 25 August, 2026
  * ==========================================================
  */

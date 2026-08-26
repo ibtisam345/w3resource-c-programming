@@ -5,7 +5,7 @@
  * Write a C program to compute the sum of consecutive 
  * numbers from a given pair of integers.
  * ----------------------------------------------------------
- * Author: Muhammmad Ibtisam Adnan
+ * Author: Muhammad Ibtisam Adnan
  * Date  : 25 August, 2026
  * ==========================================================
  */

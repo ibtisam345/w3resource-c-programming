@@ -5,7 +5,7 @@
  * Write a C program that accepts some integers from the 
  * user and finds the highest value and the input position.
  * ----------------------------------------------------------
- * Author: Muhammmad Ibtisam Adnan
+ * Author: Muhammad Ibtisam Adnan
  * Date  : 25 August, 2026
  * ==========================================================
  */
