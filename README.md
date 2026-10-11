@@ -84,7 +84,7 @@ Check each box as you complete a batch. The section header shows a running count
 > Variables, data types, arithmetic operators, and formatted output with `printf`.
 
 - [✅] **Exercises 1–25** — Basic printing, arithmetic, type sizes & early conditionals (`basic_declarations_and_expressions/ex001-025/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
-- [ ] **Exercises 26–50** — Number ranges, counting, averages & additional beginner conditionals (`basic_declarations_and_expressions/ex026-050/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
+- [✅] **Exercises 26–50** — Number ranges, counting, averages & additional beginner conditionals (`basic_declarations_and_expressions/ex026-050/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
 - [ ] **Exercises 51–75** — Continued basic declarations and expressions practice (`basic_declarations_and_expressions/ex051-075/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
 - [ ] **Exercises 76–100** — Continued basic declarations and expressions practice (`basic_declarations_and_expressions/ex076-100/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
 - [ ] **Exercises 101–125** — Continued basic declarations and expressions practice (`basic_declarations_and_expressions/ex101-125/`) ([w3resource ↗](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php))
